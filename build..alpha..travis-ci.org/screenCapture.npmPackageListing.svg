@@ -1,0 +1,20 @@
+<svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="270" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 21:41:27 +0000    32187 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 21:41:27 +0000     2029 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 21:41:27 +0000      606 bytes  appveyor.yml</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 21:41:27 +0000     5913 bytes  bin/gitbook.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 21:41:27 +0000     1982 bytes  lib/commands.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 21:41:27 +0000     1003 bytes  lib/config.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 21:41:27 +0000     3001 bytes  lib/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 21:41:27 +0000     3751 bytes  lib/local.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 21:41:27 +0000     3380 bytes  lib/registry.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 21:41:27 +0000     1877 bytes  lib/tags.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 21:41:27 +0000     2791 bytes  package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 21:41:27 +0000      296 bytes  test/_helper.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 21:41:27 +0000       32 bytes  test/fixtures/book1/book.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 21:41:27 +0000     1244 bytes  test/tags.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 21:41:27 +0000     4282 bytes  test/versions.js</tspan>
+</text>
+</svg>
